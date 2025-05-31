@@ -7,3 +7,6 @@ What sets CodeP'air apart is its integration of live messaging and video calling
 Built with a modern web stack, the platform features a React.js frontend, CodeMirror for real-time editing, Socket.io for bidirectional communication, Node.js for backend performance, and MongoDB for data storage. Secure access is ensured through JWT-based authentication.
 
 With an intuitive interface, fast syncing, and support for various languages, CodeP'air is ideal for remote development, coding interviews, online classes, hackathons, and team projects. It offers a scalable, reliable environment that drives innovation and effective collaboration in a digital-first world.
+
+
+https://github.com/user-attachments/assets/55f00d3c-159c-4808-b1e6-34fe392eda76
